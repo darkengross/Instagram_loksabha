@@ -8,3 +8,6 @@ The description for the following sub directories:
   - Community_detection.ipynb: contain plots for louvian community detection for multiple scenarios
   - utilities.py: contain many helper functions for all the notebooks
 - json files: contain all the json file.
+- data directory: contain numpy embeddings for text and ocr text
+- manual data: contains csv files for manual data collection
+  
