@@ -10,4 +10,4 @@ The description for the following sub directories:
 - json files: contain all the json file.
 - data directory: contain numpy embeddings for text and ocr text
 - manual data: contains csv files for manual data collection
-  
+- Lok_sabha_contestents.csv: This is the data file that contain the information regarding lok sabha politicians we manually collected.
